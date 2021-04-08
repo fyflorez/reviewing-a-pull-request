@@ -9,6 +9,8 @@ To play the game:
 1. Click **Save**.
 1. Navigate to the URL provided in the same section.
 
+game-instructions
+
 ### Instructions for playing the game
 
 1. Press the space bar to begin.
@@ -17,6 +19,8 @@ To play the game:
 4. The goal is to create complete rows with no empty spaces.
 5. When completed, the rows will disappear.
 6. To pause the game, just press the space bar again.
+=
+main
 
 >> _*SUPPORTED BROWSERS*: Chrome, Firefox, Safari, Opera and IE9+_
 
